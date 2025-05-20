@@ -40,4 +40,4 @@ products = load_catalog('./product_catalog.json')
 ```Python
 python main.py
 ```
-运行后终端内会显示数据集读取进度条，以及各个分析部分的用时，并在`result`中给出之前模块话运行中的所有结果。
+运行后终端内会显示数据集读取进度条，以及各个分析部分的用时，并在`result`中给出之前模块化运行中的所有结果。
