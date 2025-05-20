@@ -1,0 +1,7 @@
+category,preferred_payment_method
+摄像机,frozenset({'云闪付'})
+平板电脑,frozenset({'云闪付'})
+笔记本电脑,frozenset({'云闪付'})
+智能手机,frozenset({'云闪付'})
+相机,frozenset({'云闪付'})
+家具,frozenset({'云闪付'})
